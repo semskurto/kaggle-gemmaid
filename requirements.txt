@@ -1,0 +1,39 @@
+# GemmAid — Python Gereksinimleri
+
+# ── Web & API ────────────────────────────────────────────────
+fastapi>=0.115.2
+uvicorn[standard]==0.32.0
+httpx==0.28.0
+pydantic==2.10.0
+
+# ── Telegram Bot ─────────────────────────────────────────────
+python-telegram-bot==21.10
+
+# ── Dashboard ────────────────────────────────────────────────
+gradio==5.9.0
+requests==2.32.3
+
+# ── Config & Utils ───────────────────────────────────────────
+python-dotenv==1.0.1
+
+# ── Lokal LLM (Birincil Backend — llama.cpp / GGUF) ──────────
+# Gemma 4 E4B GGUF modelini CPU üzerinde çalıştırır.
+# Ubuntu: CMAKE_ARGS="-DLLAMA_BLAS=ON -DLLAMA_BLAS_VENDOR=OpenBLAS" pip install llama-cpp-python
+# Basit kurulum: pip install llama-cpp-python
+llama-cpp-python>=0.2.90
+
+# ── Model İndirme ────────────────────────────────────────────
+huggingface-hub>=0.23.0
+json-repair>=0.30.0
+
+# ── Opsiyonel: Google AI API (Bulut Backend) ─────────────────
+# GEMMAID_BACKEND=gemini kullanmak isteyenler için:
+# pip install google-generativeai
+# google-generativeai>=0.8.3
+
+# ── Opsiyonel: HF Transformers (Kaggle/GPU Backend) ─────────
+# GEMMAID_BACKEND=transformers veya Kaggle notebook için:
+# pip install torch transformers accelerate
+# torch>=2.2.0
+# transformers>=4.40.0
+# accelerate>=0.29.0

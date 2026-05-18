@@ -1,0 +1,1 @@
+"""GemmAid — Lokal LLM Package"""

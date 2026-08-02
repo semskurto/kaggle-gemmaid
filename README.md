@@ -7,11 +7,9 @@
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/API-FastAPI-009688?logo=fastapi)](https://fastapi.tiangolo.com)
 
-🌐 **[Bu belgeyi Türkçe okuyun (Turkish Documentation Available)](README.md)**
-- [Pitch Deck (TR)](PITCH_DECK_GEMMAID.md) | [Pitch Deck (EN)](PITCH_DECK_GEMMAID_EN.md)
-- [Technical Docs (TR)](docs/TECHNICAL_DOCS.md) | [Technical Docs (EN)](docs/TECHNICAL_DOCS_EN.md)
-- [Telegram Setup (TR)](docs/TELEGRAM_SETUP.md) | [Telegram Setup (EN)](docs/TELEGRAM_SETUP_EN.md)
-- [Scenarios & Guide (TR)](docs/SCENARIOS_AND_GUIDE.md) | [Scenarios & Guide (EN)](docs/SCENARIOS_AND_GUIDE_EN.md)
+- [Technical Docs (EN)](docs/TECHNICAL_DOCS_EN.md)
+- [Telegram Setup (EN)](docs/TELEGRAM_SETUP_EN.md)
+- [Scenarios & Guide (EN)](docs/SCENARIOS_AND_GUIDE_EN.md)
 
 ---
 

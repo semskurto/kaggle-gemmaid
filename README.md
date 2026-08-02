@@ -119,6 +119,13 @@ curl -X POST http://localhost:8000/triage \
   -H "Content-Type: application/json" \
   -d '{"message": "Our neighbor is under the debris, having difficulty breathing"}'
 ```
+Additional Note: If you’d like to explore GemmAid a bit more, I’ve also prepared a small companion website with additional details and a limited interactive demo:
+
+👉 https://gemmaid.lovable.app/ 🩵
+
+It provides a quick way to experience how the triage flow works.  
+  
+🛟For a fully organic, offline-first experience, you can follow the GitHub documentation and run GemmAid locally on your own machine — the setup is lightweight, and on-device inference gives the most realistic feel of the system.
 
 ---
 

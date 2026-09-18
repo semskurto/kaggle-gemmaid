@@ -20,7 +20,7 @@
 During the 2023 Kahramanmaraş earthquake:
 - Emergency hotlines (112) were locked down within the first few minutes.
 - Foreign rescue teams couldn't coordinate due to language barriers.
-- Massive piles of WhatsApp/Telegram messages could not be systematically evaluated.
+- Massive piles of social media post and anyone messages could not be systematically evaluated.
 
 **GemmAid bridges 3 major gaps:**
 | Gap | Solution |
